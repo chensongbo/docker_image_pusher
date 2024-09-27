@@ -1,1 +1,1 @@
-frolvlad/alpine-java:jdk8-slim
+frolvlad/alpine-java:jdk8-full
